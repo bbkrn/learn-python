@@ -1,0 +1,2 @@
+This repository will include small python scripts which will explore the usablity of python in day to day life. this repository 
+is meant for learning purpose and won't include any full-fledged projects.
